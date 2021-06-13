@@ -1,7 +1,7 @@
 # LoplusPlugins
 Benvenuto nella repo di GitHub dedicata ai plugin di Loplus. Questa repository è stata strutturata per accogliere gli utenti che fanno uso dei Plugin di Loplus. Al momento i plugin sono:  
 - **LoplusCore** gestisce le funzioni base del server di Loplus e _le città*_
-- **Loplus[REDACTED]** gestisce le [REDACTED]  
+- **LoplusQuest** gestisce il sistema di Quest di Loplus
 
 *_Le città verranno spostate in un plugin separato chiamato LoplusCity entro il rilascio della stagione 2_
 
